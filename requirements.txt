@@ -1,0 +1,2 @@
+# No external dependencies required for the base system
+# SQLite is included in Python standard library
